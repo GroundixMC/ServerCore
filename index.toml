@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "paper.pw.toml"
+hash = "08cdd3a2002ce974f830978750b567dd232ab08b843ac47ac4e38df9cd440955"
+metafile = true

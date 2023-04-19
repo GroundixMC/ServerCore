@@ -1,0 +1,7 @@
+name = "Paper"
+filename = "paper-1.19.4-514.jar"
+
+[download]
+url = "https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/514/downloads/paper-1.19.4-514.jar"
+hash-format = "sha1"
+hash = "4314e6ad9c61d9c3e171ea1b1886f9d280bb3858"
